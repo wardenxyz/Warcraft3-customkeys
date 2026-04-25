@@ -284,8 +284,8 @@ Hotkey=X
 Tip=研究风暴之锤 (|cffffcc00X|r)
 
 [sreg]
-Hotkey=Q
-Tip=购买恢复卷轴 (|cffffcc00Q|r)
+Hotkey=W
+Tip=购买恢复卷轴 (|cffffcc00W|r)
 
 [plcl]
 Hotkey=W
@@ -600,3 +600,824 @@ Tip=升级到高级寒冰塔 (|cffffcc00Z|r)
 [nft2]
 Hotkey=Z
 Tip=升级到高级火焰塔 (|cffffcc00Z|r)
+
+[cmdselectskill]
+Hotkey=F
+Tip=英雄技能 (|cffffcc00F|r)
+
+[aowk]
+Hotkey=Q
+Tip=疾风步 - [|cffffcc00等级 1|r] (|cffffcc00Q|r),疾风步 - [|cffffcc00等级 2|r] (|cffffcc00Q|r),疾风步 - [|cffffcc00等级 3|r] (|cffffcc00Q|r)
+Researchhotkey=Q
+Researchtip=学习疾风步 - [|cffffcc00等级 %d|r] (|cffffcc00Q|r)
+Buttonpos=0,0
+
+[aomi]
+Hotkey=W
+Tip=镜像分身 - [|cffffcc00等级 1|r] (|cffffcc00W|r),镜像分身 - [|cffffcc00等级 2|r] (|cffffcc00W|r),镜像分身 - [|cffffcc00等级 3|r] (|cffffcc00W|r)
+Researchhotkey=W
+Researchtip=学习镜像分身 - [|cffffcc00等级 %d|r] (|cffffcc00W|r)
+Buttonpos=1,0
+
+[aocr]
+Researchhotkey=E
+Researchtip=学习致命一击 - [|cffffcc00等级 %d|r] (|cffffcc00E|r)
+Buttonpos=2,0
+
+[aoww]
+Hotkey=R
+Tip=剑刃风暴 (|cffffcc00R|r)
+Researchhotkey=R
+Researchtip=学习剑刃风暴 (|cffffcc00R|r)
+Buttonpos=3,0
+
+[aocl]
+Hotkey=Q
+Tip=闪电链 - [|cffffcc00等级 1|r] (|cffffcc00Q|r),闪电链 - [|cffffcc00等级 2|r] (|cffffcc00Q|r),闪电链 - [|cffffcc00等级 3|r] (|cffffcc00Q|r)
+Researchhotkey=Q
+Researchtip=学习闪电链 - [|cffffcc00等级 %d|r] (|cffffcc00Q|r)
+Buttonpos=0,0
+
+[aofs]
+Hotkey=W
+Tip=透视 - [|cffffcc00等级 1|r] (|cffffcc00W|r),透视 - [|cffffcc00等级 2|r] (|cffffcc00W|r),透视 - [|cffffcc00等级 3|r] (|cffffcc00W|r)
+Researchhotkey=W
+Researchtip=学习透视 - [|cffffcc00等级 %d|r] (|cffffcc00W|r)
+Buttonpos=1,0
+
+[aosf]
+Hotkey=E
+Tip=幽灵狼 - [|cffffcc00等级 1|r] (|cffffcc00E|r),幽灵狼 - [|cffffcc00等级 2|r] (|cffffcc00E|r),幽灵狼 - [|cffffcc00等级 3|r] (|cffffcc00E|r)
+Researchhotkey=E
+Researchtip=学习幽灵狼 - [|cffffcc00等级 %d|r] (|cffffcc00E|r)
+Buttonpos=2,0
+
+[aoeq]
+Hotkey=R
+Tip=地震 (|cffffcc00R|r)
+Researchhotkey=R
+Researchtip=学习地震 (|cffffcc00R|r)
+Buttonpos=3,0
+
+[aosh]
+Hotkey=Q
+Tip=冲击波 - [|cffffcc00等级 1|r] (|cffffcc00Q|r),冲击波 - [|cffffcc00等级 2|r] (|cffffcc00Q|r),冲击波 - [|cffffcc00等级 3|r] (|cffffcc00Q|r)
+Researchhotkey=Q
+Researchtip=学习冲击波 - [|cffffcc00等级 %d|r] (|cffffcc00Q|r)
+Buttonpos=0,0
+
+[aows]
+Hotkey=W
+Tip=战争践踏 - [|cffffcc00等级 1|r] (|cffffcc00W|r),战争践踏 - [|cffffcc00等级 2|r] (|cffffcc00W|r),战争践踏 - [|cffffcc00等级 3|r] (|cffffcc00W|r)
+Researchhotkey=W
+Researchtip=学习战争践踏 - [|cffffcc00等级 %d|r] (|cffffcc00W|r)
+Buttonpos=1,0
+
+[aoae]
+Researchtip=学习耐久光环 - [|cffffcc00等级 %d|r] (|cffffcc00E|r)
+Buttonpos=2,0
+
+[aore]
+Researchtip=学习重生 (|cffffcc00R|r)
+Buttonpos=3,0
+
+[aohw]
+Hotkey=Q
+Tip=治疗波 - [|cffffcc00等级 1|r] (|cffffcc00Q|r),治疗波 - [|cffffcc00等级 2|r] (|cffffcc00Q|r),治疗波 - [|cffffcc00等级 3|r] (|cffffcc00Q|r)
+Researchhotkey=Q
+Researchtip=学习治疗波 - [|cffffcc00等级 %d|r] (|cffffcc00Q|r)
+Buttonpos=0,0
+
+[aohx]
+Hotkey=W
+Tip=妖术 - [|cffffcc00等级 1|r] (|cffffcc00W|r),妖术 - [|cffffcc00等级 2|r] (|cffffcc00W|r),妖术 - [|cffffcc00等级 3|r] (|cffffcc00W|r)
+Researchhotkey=W
+Researchtip=学习妖术 - [|cffffcc00等级 %d|r] (|cffffcc00W|r)
+Buttonpos=1,0
+
+[aosw]
+Hotkey=E
+Tip=蛇棒结界 - [|cffffcc00等级 1|r] (|cffffcc00E|r),蛇棒结界 - [|cffffcc00等级 2|r] (|cffffcc00E|r),蛇棒结界 - [|cffffcc00等级 3|r] (|cffffcc00E|r)
+Researchhotkey=E
+Researchtip=学习蛇棒结界 - [|cffffcc00等级 %d|r] (|cffffcc00E|r)
+Buttonpos=2,0
+
+[aovd]
+Hotkey=R
+Tip=巫毒 (|cffffcc00R|r)
+Researchhotkey=R
+Researchtip=学习巫毒 (|cffffcc00R|r)
+Buttonpos=3,0
+
+[aobu]
+Buttonpos=0,0
+
+[cmdbuildorc]
+Hotkey=Q
+Tip=建筑 (|cffffcc00Q|r)
+
+[ogre]
+Hotkey=Q
+Tip=建造大厅 (|cffffcc00Q|r)
+
+[obar]
+Hotkey=W
+Tip=建造兵营 (|cffffcc00W|r)
+
+[ofor]
+Hotkey=E
+Tip=建造战争磨坊 (|cffffcc00E|r)
+
+[owtw]
+Hotkey=R
+Tip=建造瞭望塔 (|cffffcc00R|r)
+
+[otrb]
+Hotkey=A
+Tip=建造地洞 (|cffffcc00A|r)
+
+[oalt]
+Hotkey=S
+Tip=建造风暴祭坛 (|cffffcc00S|r)
+
+[osld]
+Hotkey=D
+Tip=建造灵魂归宿 (|cffffcc00D|r)
+
+[obea]
+Hotkey=F
+Tip=建造兽栏 (|cffffcc00F|r)
+
+[otto]
+Hotkey=Z
+Tip=建造牛头人图腾 (|cffffcc00Z|r)
+
+[ovln]
+Hotkey=X
+Tip=建造巫毒商店 (|cffffcc00X|r)
+
+[arep]
+Buttonpos=2,2
+Unbuttonpos=2,2
+
+[asal]
+Buttonpos=1,0
+
+[absk]
+Hotkey=Q
+Tip=狂暴 (|cffffcc00Q|r)
+Buttonpos=0,0
+
+[aobk]
+Buttonpos=1,0
+
+[aotr]
+Buttonpos=3,0
+
+[aobs]
+Buttonpos=0,0
+
+[abof]
+Buttonpos=0,0
+
+[ablo]
+Buttonpos=0,0
+Unbuttonpos=0,0
+Hotkey=Q
+Tip=嗜血 (|cffffcc00Q|r)
+
+[alsh]
+Buttonpos=1,0
+Hotkey=W
+Tip=闪电护盾 (|cffffcc00W|r)
+
+[apg2]
+Buttonpos=2,0
+Hotkey=E
+Tip=净化 (|cffffcc00E|r)
+
+[aeye]
+Buttonpos=0,0
+Hotkey=Q
+Tip=侦察守卫 (|cffffcc00Q|r)
+
+[ahwd]
+Buttonpos=1,0
+Hotkey=W
+Tip=治疗守卫 (|cffffcc00W|r)
+
+[asta]
+Buttonpos=2,0
+Hotkey=E
+Tip=静止陷阱 (|cffffcc00E|r)
+
+[aspl]
+Buttonpos=0,0
+Hotkey=Q
+Tip=灵魂链接 (|cffffcc00Q|r)
+
+[adcn]
+Buttonpos=1,0
+Hotkey=W
+Tip=驱散 (|cffffcc00W|r)
+
+[aast]
+Buttonpos=2,0
+Hotkey=E
+Tip=先祖之魂 (|cffffcc00E|r)
+
+[acpf]
+Buttonpos=3,0
+Unbuttonpos=3,0
+Hotkey=R
+Tip=实体形态 (|cffffcc00R|r)
+Unhotkey=R
+Untip=虚无形态 (|cffffcc00R|r)
+
+[aens]
+Buttonpos=0,0
+Hotkey=Q
+Tip=诱捕 (|cffffcc00Q|r)
+
+[adev]
+Buttonpos=0,0
+Hotkey=Q
+Tip=吞噬 (|cffffcc00Q|r)
+
+[aven]
+Buttonpos=0,0
+
+[auco]
+Buttonpos=0,0
+Hotkey=Q
+Tip=不稳定的化合物 (|cffffcc00Q|r)
+
+[opeo]
+Hotkey=Q
+Tip=训练苦工 (|cffffcc00Q|r)
+
+[ostr]
+Hotkey=Z
+Tip=升级为要塞 (|cffffcc00Z|r)
+
+[ropg]
+Hotkey=E
+Tip=掠夺 (|cffffcc00E|r)
+
+[ropm]
+Hotkey=R
+Tip=研究背包 (|cffffcc00R|r)
+
+[ogru]
+Hotkey=Q
+Tip=训练兽人步兵 (|cffffcc00Q|r)
+
+[ohun]
+Hotkey=W
+Tip=训练猎头者 (|cffffcc00W|r)
+
+[ocat]
+Hotkey=E
+Tip=训练投石车 (|cffffcc00E|r)
+
+[robk]
+Hotkey=S
+Tip=狂暴战士升级 (|cffffcc00S|r)
+
+[robf]
+Hotkey=D
+Tip=燃烧之油 (|cffffcc00D|r)
+
+[robs]
+Hotkey=Z
+Tip=研究蛮力 (|cffffcc00Z|r)
+
+[rotr]
+Hotkey=X
+Tip=研究巨魔再生 (|cffffcc00X|r)
+
+[otbk]
+Hotkey=W
+Tip=训练狂暴猎头者 (|cffffcc00W|r)
+
+[rome]
+Hotkey=Q,Q,Q
+Tip=升级钢制近战武器 (|cffffcc00Q|r),升级瑟银近战武器 (|cffffcc00Q|r),升级奥金近战武器 (|cffffcc00Q|r)
+
+[rora]
+Hotkey=W,W,W
+Tip=升级钢制远程武器 (|cffffcc00W|r),升级瑟银远程武器 (|cffffcc00W|r),升级奥金远程武器 (|cffffcc00W|r)
+
+[rosp]
+Hotkey=E,E,E
+Tip=升级尖刺障碍 (|cffffcc00E|r),升级强化尖刺障碍 (|cffffcc00E|r),升级高级尖刺障碍 (|cffffcc00E|r)
+
+[roar]
+Tip=升级钢制护甲 (|cffffcc00A|r),升级瑟银护甲 (|cffffcc00A|r),升级奥金护甲 (|cffffcc00A|r)
+
+[abtl]
+Buttonpos=0,0
+Hotkey=Q
+Tip=战斗状态 (|cffffcc00Q|r)
+
+[astd]
+Buttonpos=1,0
+Hotkey=W
+Tip=待命 (|cffffcc00W|r)
+
+[oshd]
+Hotkey=A
+Tip=召唤暗影猎手 (|cffffcc00A|r)
+Awakentip=复活暗影猎手 (|cffffcc00A|r)
+Revivetip=复活暗影猎手 (|cffffcc00A|r)
+
+[obla]
+Hotkey=Z
+Tip=召唤剑圣 (|cffffcc00Z|r)
+Awakentip=复活剑圣 (|cffffcc00Z|r)
+Revivetip=复活剑圣 (|cffffcc00Z|r)
+
+[ofar]
+Hotkey=X
+Tip=召唤先知 (|cffffcc00X|r)
+Awakentip=复活先知 (|cffffcc00X|r)
+Revivetip=复活先知 (|cffffcc00X|r)
+
+[otch]
+Hotkey=C
+Tip=召唤牛头人酋长 (|cffffcc00C|r)
+Awakentip=复活牛头人酋长 (|cffffcc00C|r)
+Revivetip=复活牛头人酋长 (|cffffcc00C|r)
+
+[oshm]
+Hotkey=Q
+Tip=训练萨满 (|cffffcc00Q|r)
+
+[odoc]
+Tip=训练巨魔巫医 (|cffffcc00W|r)
+
+[rost]
+Hotkey=Z,Z
+Tip=萨满专家训练 (|cffffcc00Z|r),萨满大师训练 (|cffffcc00Z|r)
+
+[rowd]
+Hotkey=X,X
+Tip=巫医专家训练 (|cffffcc00X|r),巫医大师训练 (|cffffcc00X|r)
+
+[orai]
+Hotkey=Q
+Tip=训练狼骑兵 (|cffffcc00Q|r)
+
+[owyv]
+Tip=训练双足飞龙 (|cffffcc00W|r)
+
+[okod]
+Hotkey=E
+Tip=训练科多兽 (|cffffcc00E|r)
+
+[otbr]
+Hotkey=R
+Tip=训练巨魔蝙蝠骑士 (|cffffcc00R|r)
+
+[rolf]
+Hotkey=D
+Tip=研究液体火焰 (|cffffcc00D|r)
+
+[roen]
+Hotkey=Z
+Tip=研究诱捕 (|cffffcc00Z|r)
+
+[rovs]
+Hotkey=X
+Tip=研究淬毒之矛 (|cffffcc00X|r)
+
+[rwdm]
+Hotkey=X
+Tip=升级战鼓 (|cffffcc00X|r)
+
+[ospm]
+Hotkey=Q
+Tip=训练灵魂行者 (|cffffcc00Q|r)
+
+[otau]
+Hotkey=W
+Tip=训练牛头人 (|cffffcc00W|r)
+
+[rowt]
+Hotkey=Z,Z
+Tip=灵魂行者专家训练 (|cffffcc00Z|r),灵魂行者大师训练 (|cffffcc00Z|r)
+
+[rows]
+Hotkey=X
+Tip=升级粉碎 (|cffffcc00X|r)
+
+[hslv]
+Hotkey=Q
+Tip=购买药膏 (|cffffcc00Q|r)
+
+[shas]
+Hotkey=E
+Tip=购买速度卷轴 (|cffffcc00E|r)
+
+[oli2]
+Hotkey=Z
+Tip=购买闪电球 (|cffffcc00Z|r)
+
+[tgrh]
+Hotkey=X
+Tip=购买迷你大厅 (|cffffcc00X|r)
+
+[arsg]
+Hotkey=Q
+Tip=召唤米莎 - [|cffffcc00等级 1|r] (|cffffcc00Q|r),召唤米莎 - [|cffffcc00等级 2|r] (|cffffcc00Q|r),召唤米莎 - [|cffffcc00等级 3|r] (|cffffcc00Q|r),召唤米莎 - [|cffffcc00等级 4|r] (|cffffcc00Q|r)
+Researchhotkey=Q
+Researchtip=学习召唤米莎 - [|cffffcc00等级 %d|r] (|cffffcc00Q|r)
+Buttonpos=0,0
+
+[arsq]
+Hotkey=W
+Tip=召唤豪猪 - [|cffffcc00等级 1|r] (|cffffcc00W|r),召唤豪猪 - [|cffffcc00等级 2|r] (|cffffcc00W|r),召唤豪猪 - [|cffffcc00等级 3|r] (|cffffcc00W|r),召唤豪猪 - [|cffffcc00等级 4|r] (|cffffcc00W|r)
+Researchhotkey=W
+Researchtip=学习召唤豪猪 - [|cffffcc00等级 %d|r] (|cffffcc00W|r)
+Buttonpos=1,0
+
+[ansb]
+Hotkey=E
+Tip=风暴之锤 - [|cffffcc00等级 1|r] (|cffffcc00E|r),风暴之锤 - [|cffffcc00等级 2|r] (|cffffcc00E|r),风暴之锤 - [|cffffcc00等级 3|r] (|cffffcc00E|r),风暴之锤 - [|cffffcc00等级 4|r] (|cffffcc00E|r)
+Researchhotkey=E
+Researchtip=学习风暴之锤 - [|cffffcc00等级 %d|r] (|cffffcc00E|r)
+Buttonpos=2,0
+
+[arsp]
+Hotkey=R
+Tip=惊奔 - [|cffffcc00等级 1|r] (|cffffcc00R|r),惊奔 - [|cffffcc00等级 2|r] (|cffffcc00R|r)
+Researchhotkey=R
+Researchtip=学习惊奔 - [|cffffcc00等级 %d|r] (|cffffcc00R|r)
+Buttonpos=3,0
+
+[anhw]
+Hotkey=Q
+Tip=治疗波 - [|cffffcc00等级 1|r] (|cffffcc00Q|r),治疗波 - [|cffffcc00等级 2|r] (|cffffcc00Q|r),治疗波 - [|cffffcc00等级 3|r] (|cffffcc00Q|r),治疗波 - [|cffffcc00等级 4|r] (|cffffcc00Q|r)
+Researchhotkey=Q
+Researchtip=学习治疗波 - [|cffffcc00等级 %d|r] (|cffffcc00Q|r)
+Buttonpos=0,0
+
+[anhx]
+Hotkey=W
+Tip=妖术 - [|cffffcc00等级 1|r] (|cffffcc00W|r),妖术 - [|cffffcc00等级 2|r] (|cffffcc00W|r),妖术 - [|cffffcc00等级 3|r] (|cffffcc00W|r),妖术 - [|cffffcc00等级 4|r] (|cffffcc00W|r)
+Researchhotkey=W
+Researchtip=学习妖术 - [|cffffcc00等级 %d|r] (|cffffcc00W|r)
+Buttonpos=1,0
+
+[arsw]
+Hotkey=E
+Tip=蛇棒结界 - [|cffffcc00等级 1|r] (|cffffcc00E|r),蛇棒结界 - [|cffffcc00等级 2|r] (|cffffcc00E|r),蛇棒结界 - [|cffffcc00等级 3|r] (|cffffcc00E|r),蛇棒结界 - [|cffffcc00等级 4|r] (|cffffcc00E|r)
+Researchhotkey=E
+Researchtip=学习蛇棒结界 - [|cffffcc00等级 %d|r] (|cffffcc00E|r)
+Buttonpos=2,0
+
+[aols]
+Hotkey=R
+Tip=巫毒之魂 - [|cffffcc00等级 1|r] (|cffffcc00R|r),巫毒之魂 - [|cffffcc00等级 2|r] (|cffffcc00R|r)
+Researchhotkey=R
+Researchtip=学习巫毒之魂 - [|cffffcc00等级 %d|r] (|cffffcc00R|r)
+Buttonpos=3,0
+
+[aamk]
+Buttonpos=2,2
+
+[ancf]
+Hotkey=Q
+Tip=火焰呼吸 - [|cffffcc00等级 1|r] (|cffffcc00Q|r),火焰呼吸 - [|cffffcc00等级 2|r] (|cffffcc00Q|r),火焰呼吸 - [|cffffcc00等级 3|r] (|cffffcc00Q|r),火焰呼吸 - [|cffffcc00等级 4|r] (|cffffcc00Q|r)
+Researchhotkey=Q
+Researchtip=学习火焰呼吸 - [|cffffcc00等级 %d|r] (|cffffcc00Q|r)
+Buttonpos=0,0
+
+[acdh]
+Hotkey=W
+Tip=醉酒云雾 - [|cffffcc00等级 1|r] (|cffffcc00W|r),醉酒云雾 - [|cffffcc00等级 2|r] (|cffffcc00W|r),醉酒云雾 - [|cffffcc00等级 3|r] (|cffffcc00W|r),醉酒云雾 - [|cffffcc00等级 4|r] (|cffffcc00W|r)
+Researchhotkey=W
+Researchtip=学习醉酒云雾 - [|cffffcc00等级 %d|r] (|cffffcc00W|r)
+Buttonpos=1,0
+
+[acdb]
+Researchhotkey=E
+Researchtip=学习醉拳 - [|cffffcc00等级 %d|r] (|cffffcc00E|r)
+Buttonpos=2,0
+
+[acef]
+Hotkey=R
+Tip=风暴、大地与火焰 - [|cffffcc00等级 1|r] (|cffffcc00R|r),风暴、大地与火焰 - [|cffffcc00等级 2|r] (|cffffcc00R|r)
+Researchhotkey=R
+Researchtip=学习风暴、大地与火焰 - [|cffffcc00等级 %d|r] (|cffffcc00R|r)
+Buttonpos=3,0
+
+[aos2]
+Hotkey=Q
+Tip=冲击波 - [|cffffcc00等级 1|r] (|cffffcc00Q|r),冲击波 - [|cffffcc00等级 2|r] (|cffffcc00Q|r),冲击波 - [|cffffcc00等级 3|r] (|cffffcc00Q|r),冲击波 - [|cffffcc00等级 4|r] (|cffffcc00Q|r)
+Researchhotkey=Q
+Researchtip=学习冲击波 - [|cffffcc00等级 %d|r] (|cffffcc00Q|r)
+Buttonpos=0,0
+
+[aow2]
+Hotkey=W
+Tip=战争践踏 - [|cffffcc00等级 1|r] (|cffffcc00W|r),战争践踏 - [|cffffcc00等级 2|r] (|cffffcc00W|r),战争践踏 - [|cffffcc00等级 3|r] (|cffffcc00W|r),战争践踏 - [|cffffcc00等级 4|r] (|cffffcc00W|r)
+Researchhotkey=W
+Researchtip=学习战争践踏 - [|cffffcc00等级 %d|r] (|cffffcc00W|r)
+Buttonpos=1,0
+
+[aor2]
+Researchtip=学习耐久光环 - [|cffffcc00等级 %d|r] (|cffffcc00E|r)
+Buttonpos=2,0
+
+[aor3]
+Researchtip=学习重生 (|cffffcc00R|r)
+Buttonpos=3,0
+
+[aprg]
+Buttonpos=2,0
+Hotkey=E
+Tip=净化 (|cffffcc00E|r)
+
+[acfb]
+Buttonpos=0,0
+Hotkey=Q
+Tip=火球 (|cffffcc00Q|r)
+
+[acuf]
+Buttonpos=1,0
+Hotkey=W
+Tip=邪恶狂热 (|cffffcc00W|r)
+
+[accr]
+Buttonpos=2,0
+Hotkey=E
+Tip=残废 (|cffffcc00E|r)
+
+[awfb]
+Buttonpos=0,0
+Hotkey=Q
+Tip=火球 (|cffffcc00Q|r)
+
+[suhf]
+Buttonpos=1,0
+Hotkey=W
+Tip=邪恶狂热 (|cffffcc00W|r)
+
+[scri]
+Buttonpos=2,0
+Hotkey=E
+Tip=残废 (|cffffcc00E|r)
+
+[aroa]
+Buttonpos=0,0
+Hotkey=Q
+Tip=咆哮 (|cffffcc00Q|r)
+
+[afzy]
+Buttonpos=1,0
+Unbuttonpos=1,0
+Hotkey=W
+Tip=狂暴 (|cffffcc00W|r)
+
+[amls]
+Buttonpos=0,0
+Hotkey=Q
+Tip=空中枷锁 (|cffffcc00Q|r)
+
+[achv]
+Buttonpos=1,0
+Tip=治疗波 (|cffffcc00E|r)
+
+[acbc]
+Buttonpos=1,0
+Hotkey=W
+Tip=火焰呼吸 (|cffffcc00W|r)
+
+[a000]
+Buttonpos=3,0
+Unbuttonpos=3,0
+Hotkey=R
+Tip=实体形态 (|cffffcc00R|r)
+Unhotkey=R
+Untip=虚无形态 (|cffffcc00R|r)
+
+[opgh]
+Hotkey=A
+Tip=召唤剑圣 (|cffffcc00A|r)
+Awakentip=复活剑圣 (|cffffcc00A|r)
+Revivetip=复活剑圣 (|cffffcc00A|r)
+
+[ogrh]
+Hotkey=Z
+Tip=召唤剑圣 (|cffffcc00Z|r)
+Awakentip=复活剑圣 (|cffffcc00Z|r)
+Revivetip=复活剑圣 (|cffffcc00Z|r)
+
+[naka]
+Hotkey=S
+Tip=召唤阿卡玛 (|cffffcc00S|r)
+Awakentip=复活阿卡玛 (|cffffcc00S|r)
+Revivetip=复活阿卡玛 (|cffffcc00S|r)
+
+[othr]
+Hotkey=X
+Tip=召唤先知 (|cffffcc00X|r)
+Awakentip=复活先知 (|cffffcc00X|r)
+Revivetip=复活先知 (|cffffcc00X|r)
+
+[ocbh]
+Hotkey=C
+Tip=召唤牛头人酋长 (|cffffcc00C|r)
+Awakentip=复活牛头人酋长 (|cffffcc00C|r)
+Revivetip=复活牛头人酋长 (|cffffcc00C|r)
+
+[obot]
+Hotkey=Q
+Tip=雇佣运输船 (|cffffcc00Q|r)
+
+[odes]
+Hotkey=W
+Tip=雇佣护卫舰 (|cffffcc00W|r)
+
+[ncpn]
+Hotkey=Q
+Tip=训练混乱兽人苦工 (|cffffcc00Q|r)
+
+[nchg]
+Hotkey=Q
+Tip=训练混乱兽人步兵 (|cffffcc00Q|r)
+
+[nchw]
+Hotkey=Q
+Tip=训练混乱术士 (|cffffcc00Q|r)
+
+[nckb]
+Hotkey=W
+Tip=训练混乱科多兽 (|cffffcc00W|r)
+
+[nchr]
+Hotkey=Q
+Tip=训练混乱狼骑兵 (|cffffcc00Q|r)
+
+[o002]
+Hotkey=E
+Tip=雇佣驮兽 (|cffffcc00E|r)
+
+[mlst]
+Hotkey=Q
+Tip=购买力量锤 (|cffffcc00Q|r)
+
+[stwa]
+Tip=购买坚固战斧 (|cffffcc00W|r)
+
+[rst1]
+Hotkey=R
+Tip=购买食人魔力量护腕 +3 (|cffffcc00R|r)
+
+[hcun]
+Hotkey=A
+Tip=购买狡诈兜帽 (|cffffcc00A|r)
+
+[evtl]
+Hotkey=S
+Tip=购买闪避护符 (|cffffcc00S|r)
+
+[ckng]
+Hotkey=D
+Tip=购买国王之冠 (|cffffcc00D|r)
+
+[rspd]
+Hotkey=Q
+Tip=购买速度符文 (|cffffcc00Q|r)
+
+[tdex]
+Hotkey=W
+Tip=购买敏捷之书 (|cffffcc00W|r)
+
+[tint]
+Hotkey=E
+Tip=购买智力之书 (|cffffcc00E|r)
+
+[tstr]
+Hotkey=R
+Tip=购买力量之书 (|cffffcc00R|r)
+
+[texp]
+Hotkey=F
+Tip=购买经验之书 (|cffffcc00F|r)
+
+[sman]
+Hotkey=W
+Tip=购买魔法卷轴 (|cffffcc00W|r)
+
+[rin1]
+Hotkey=E
+Tip=购买智力斗篷 +3 (|cffffcc00E|r)
+
+[bspd]
+Hotkey=R
+Tip=购买速度之靴 (|cffffcc00R|r)
+
+[spro]
+Hotkey=A
+Tip=购买保护卷轴 (|cffffcc00A|r)
+
+[sneg]
+Hotkey=S
+Tip=购买否定权杖 (|cffffcc00S|r)
+
+[arsc]
+Hotkey=D
+Tip=购买奥术卷轴 (|cffffcc00D|r)
+
+[mnsf]
+Hotkey=F
+Tip=购买心灵权杖 (|cffffcc00F|r)
+
+[shea]
+Hotkey=X
+Tip=购买治疗卷轴 (|cffffcc00X|r)
+
+[pgma]
+Hotkey=R
+Tip=购买超级魔法药水 (|cffffcc00R|r)
+
+[wneu]
+Hotkey=A
+Tip=购买中和法杖 (|cffffcc00A|r)
+
+[rde2]
+Hotkey=S
+Tip=购买防御指环 +3 (|cffffcc00S|r)
+
+[hlst]
+Hotkey=D
+Tip=购买生命石 (|cffffcc00D|r)
+
+[rwiz]
+Hotkey=F
+Tip=购买索比面具 (|cffffcc00F|r)
+
+[shrs]
+Hotkey=W
+Tip=购买闪光烤肉 (|cffffcc00W|r)
+
+[sror]
+Hotkey=E
+Tip=购买野兽卷轴 (|cffffcc00E|r)
+
+[mnst]
+Hotkey=A
+Tip=购买法力石 (|cffffcc00A|r)
+
+[cnob]
+Hotkey=S
+Tip=购买贵族圆环 (|cffffcc00S|r)
+
+[belv]
+Hotkey=F
+Tip=购买奎尔萨拉斯之靴 (|cffffcc00F|r)
+Buttonpos=3,1
+
+[acs7]
+Hotkey=W
+Tip=幽灵狼 - [|cffffcc00等级 1|r] (|cffffcc00W|r),幽灵狼 - [|cffffcc00等级 2|r] (|cffffcc00W|r),幽灵狼 - [|cffffcc00等级 3|r] (|cffffcc00W|r)
+Researchhotkey=W
+Researchtip=学习幽灵狼 - [|cffffcc00等级 %d|r] (|cffffcc00W|r)
+Buttonpos=1,0
+
+[aesh]
+Hotkey=E
+Tip=暗影突袭 - [|cffffcc00等级 1|r] (|cffffcc00E|r),暗影突袭 - [|cffffcc00等级 2|r] (|cffffcc00E|r),暗影突袭 - [|cffffcc00等级 3|r] (|cffffcc00E|r)
+Researchhotkey=E
+Researchtip=学习暗影突袭 - [|cffffcc00等级 %d|r] (|cffffcc00E|r)
+Buttonpos=2,0
+
+[anr2]
+Researchtip=学习重生 (|cffffcc00R|r)
+Buttonpos=3,0
+
+[ahid]
+Hotkey=W
+Tip=隐藏 (|cffffcc00W|r)
+Buttonpos=1,0
+
+[ache]
+Buttonpos=0,0
+Hotkey=Q
+Tip=施放瓦解射线 (|cffffcc00Q|r)
+
+[acbb]
+Buttonpos=1,0
+Unbuttonpos=1,0
+Hotkey=W
+Tip=嗜血 (|cffffcc00W|r)
+
+[acht]
+Buttonpos=0,0
+Hotkey=Q
+Tip=恐怖嚎叫 (|cffffcc00Q|r)
+
+[acct]
+Buttonpos=2,0
