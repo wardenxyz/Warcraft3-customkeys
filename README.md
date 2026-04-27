@@ -6,4 +6,12 @@
 
 目前冰封王座版本的快捷键只修改了人族，重制版的全修改了
 
-[魔兽争霸3快捷键编辑器](https://jcfieldsdev.github.io/warcraft3-hotkey-editor)
+## 必要工具合集
+
+- [魔兽争霸3快捷键编辑器](https://jcfieldsdev.github.io/warcraft3-hotkey-editor)
+
+- [高级 AI 对战插件](https://github.com/SMUnlimited/AMAI)
+
+- [解锁帧率插件](https://github.com/LoveBeforT/WarcraftHelper)
+
+- [目前不知道有什么用，但网友推荐了](https://github.com/UnryzeC/WFE-Release)
