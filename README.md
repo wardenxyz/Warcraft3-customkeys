@@ -15,3 +15,15 @@
 - [解锁帧率插件](https://github.com/LoveBeforT/WarcraftHelper)
 
 - [目前不知道有什么用，但网友推荐了](https://github.com/UnryzeC/WFE-Release)
+
+## 中文文本和中文配音
+
+`win + R` -> `regedit` -> `HKEY_CURRENT_USER\Software\Blizzard Entertainment\Battle.net\Launch Options\W3`
+
+右侧的键值对改为
+
+```
+LOCALE  zhCN
+
+LOCALE_AUDIO  zhCN
+```
